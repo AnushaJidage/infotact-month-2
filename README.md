@@ -3,4 +3,4 @@
 ## week 1
 ### Day 1
 - collection the E-commerce dataset.
--Reviewed the project 
+-Reviewed the project roadmap.
