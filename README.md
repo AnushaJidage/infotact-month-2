@@ -12,7 +12,7 @@ Day 2
   
 ### Day3
  Day3
--Reviewed dataset structure using info().
--Checked column data types.
--Identified null values.
--Identified duplicate records.
+- Reviewed dataset structure using info().
+- Checked column data types.
+- Identified null values.
+- Identified duplicate records.
