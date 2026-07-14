@@ -9,3 +9,8 @@ Day 2
 - Imported the required Python libraries.
 - Loaded all datasets into Google Colab.
 - Performed initial dataset exploration using head() and shape().
+###Day3
+Reviewed dataset structure using info().
+Checked column data types.
+Identified null values.
+Identified duplicate records.
