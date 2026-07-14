@@ -50,3 +50,8 @@ print(products_dataset.shape)
 print(seller_dataset.head())
 
 print(seller_dataset.shape)
+lists=[customer,order,order_payments,order_reviews,order_dataset,products_dataset,seller_dataset]
+for i in lists:
+  print(i.duplicated())
+  i.info()
+  print(i.isnull().sum())
