@@ -10,7 +10,7 @@ Day 2
 - Loaded all datasets into Google Colab.
 - Performed initial dataset exploration using head() and shape().
 ###Day3
-Reviewed dataset structure using info().
-Checked column data types.
-Identified null values.
-Identified duplicate records.
+-Reviewed dataset structure using info().
+-Checked column data types.
+-Identified null values.
+-Identified duplicate records.
