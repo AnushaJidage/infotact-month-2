@@ -100,3 +100,22 @@ print("\nFinal Dataset Shapes:")
 print("Orders:", orders.shape)
 print("Order Items:", order_items.shape)
 print("Products:", products.shape)
+# Merge Orders and Customers
+cohort_df = pd.merge(
+    orders,
+    customers,
+    on='customer_id',
+    how='left'
+)
+
+# Merge Payments
+cohort_df = pd.merge(
+    cohort_df,
+    payments,
+    on='order_id',
+    how='left'
+)
+# Verify merged dataset
+print(cohort_df.head())
+print(cohort_df.shape)
+print(cohort_df.info())
