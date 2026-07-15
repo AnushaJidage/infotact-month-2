@@ -18,7 +18,12 @@ Day 2
 - Identified duplicate records.
 ### Day4
 Day 4
-Reviewed order status and retained only delivered orders.
-Handled missing values in Orders, Order Items, and Products datasets.
-Verified the cleaned datasets.
-Saved the cleaned datasets for further preprocessing.
+- Reviewed order status and retained only delivered orders.
+- Handled missing values in Orders, Order Items, and Products datasets.
+- Verified the cleaned datasets.
+- Saved the cleaned datasets for further preprocessing.
+### Day5
+Day 5
+- Converted purchase timestamps into datetime format.
+- Extracted the purchase month from transaction timestamps.
+- Prepared date columns for cohort analysis.
