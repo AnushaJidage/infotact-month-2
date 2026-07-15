@@ -27,3 +27,8 @@ Day 5
 - Converted purchase timestamps into datetime format.
 - Extracted the purchase month from transaction timestamps.
 - Prepared date columns for cohort analysis.
+### Day6
+Day 6
+- Merged customer, order, and payment datasets.
+- Created a unified dataset for cohort analysis.
+- Verified the merged dataset structure.
