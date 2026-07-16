@@ -32,3 +32,9 @@ Day 6
 - Merged customer, order, and payment datasets.
 - Created a unified dataset for cohort analysis.
 - Verified the merged dataset structure.
+### Day7
+Day 7
+Day 7
+- Calculated the Cohort Month for each customer.
+- Prepared the processed dataset for retention analysis.
+- Saved the cohort dataset for Week 2.
