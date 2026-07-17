@@ -34,7 +34,12 @@ Day 6
 - Verified the merged dataset structure.
 ### Day7
 Day 7
-Day 7
 - Calculated the Cohort Month for each customer.
 - Prepared the processed dataset for retention analysis.
 - Saved the cohort dataset for Week 2.
+## Week 2
+### Day 8
+- Identified the first purchase month of each customer.
+- Created the Cohort Month for every customer.
+- Merged the Cohort Month into the orders dataset.
+
