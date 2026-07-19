@@ -153,3 +153,17 @@ orders['CohortIndex'] = year_diff * 12 + month_diff + 1
 
 # Verify
 print(orders[['customer_id','OrderMonth','CohortMonth','CohortIndex']].head())
+# Count unique customers
+cohort_data = orders.groupby(
+    ['CohortMonth', 'CohortIndex']
+)['customer_id'].nunique().reset_index()
+
+# Create retention matrix
+retention_matrix = cohort_data.pivot_table(
+    index='CohortMonth',
+    columns='CohortIndex',
+    values='customer_id'
+)
+
+# Verify
+print(retention_matrix)
