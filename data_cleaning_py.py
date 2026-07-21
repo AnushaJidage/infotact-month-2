@@ -178,3 +178,7 @@ retention_percentage = retention_percentage.round(2)
 
 # Verify
 print(retention_percentage)
+# Replace missing values
+retention_percentage = retention_percentage.fillna(0)
+# Verify
+print(retention_percentage)
