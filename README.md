@@ -53,11 +53,16 @@ Day 10
 - Counted unique customers.
 - Built the Cohort Retention Matrix using a pivot table.
   
-  Day 11
+Day 11
 - Calculated customer retention percentages.
 - Converted retention counts into percentage values.
 - Prepared data for visualization.
   
-  Day 12
+Day 12
 - Handled missing values in the retention matrix.
 - Finalized the dataset for heatmap visualization.
+
+Day 13
+- Evaluated cohort-wise retention trends.
+- Identified average retention across cohorts.
+- Summarized customer retention performance.
