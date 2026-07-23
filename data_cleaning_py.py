@@ -189,3 +189,12 @@ print(retention_percentage.mean(axis=1))
 # Average retention by month
 print("\nAverage Retention by Month")
 print(retention_percentage.mean())
+# Save files
+retention_matrix.to_csv("Retention_Matrix.csv")
+retention_percentage.to_csv("Retention_Percentage.csv")
+
+# Download files (Google Colab)
+from google.colab import files
+
+files.download("Retention_Matrix.csv")
+files.download("Retention_Percentage.csv")
