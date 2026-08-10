@@ -105,32 +105,32 @@ Day 15
 - Verified exported dataset.
 - Reviewed descriptive statistics.
 - Completed Week 3 CLTV analysis.
-Week 4
-Day 22-nData Preparation for Power BI
+## Week 4
+### Day 22-nData Preparation for Power BI
 -Prepared datasets for Power BI.
 -Created relationships between tables.
 -Verified data model.
-Day 23–Dashboard Layout Design
+### Day 23–Dashboard Layout Design
 -Designed Power BI dashboard layout.
 -Created navigation panel.
 -Applied dashboard theme.
-Day 24-Executive Dashboard (Page 1)
+### Day 24-Executive Dashboard (Page 1)
 -Created Executive Overview dashboard.
 -Added KPI cards and visualizations.
 -Implemented filters.
-Day 25–Cohort & CLTV Dashboard (Page 2)
+### Day 25–Cohort & CLTV Dashboard (Page 2)
 -Built Customer Cohort dashboard.
 -Visualized retention and CLTV.
 -Added cohort comparison charts.
-Day 26–Interactivity & DAX
+### Day 26–Interactivity & DAX
 -Added dashboard interactivity.
 -Implemented slicers and navigation.
 -Created DAX measures.
-Day 27–Dashboard Optimization
+### Day 27–Dashboard Optimization
 -Optimized dashboard layout.
 -Improved visual consistency.
 -Enhanced performance.
-Day 28–Final Documentation & GitHub
+### Day 28–Final Documentation & GitHub
 -Completed Power BI dashboard.
 -Updated project documentation.
 -Prepared project for GitHub portfolio.
